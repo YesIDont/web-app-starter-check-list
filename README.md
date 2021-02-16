@@ -4,7 +4,7 @@ A list of steps to check when starting a new web app. Always keep in mind that:
 - code base should look as if it was created by one person (no exceptions)
 - good programmer is polite to whoever will read he's code in the future, that means you want to write [Clean Code](https://www.youtube.com/watch?v=7EmboKQH8lM&t=4s)
 
-### 1. Establish readme file like this one or similar.
+## 1. Establish readme file like this one or similar.
 It will act as entry point for any one new to the code base. It should hold the information of the following:
 - stack: list containing frameworks, libraries and all tools being used to build the app
 - architecture: link/guide with description on what the app's structure will/should look like
@@ -19,7 +19,7 @@ It will act as entry point for any one new to the code base. It should hold the 
 
 Information about each of the above must be updated as soon as any of it changes. ALWAYS. Book your time to update your documentation.
 
-### 2. Prepare first commit with initial setup
+## 2. Prepare first commit with initial setup
 - install frameworks, libs and tooling required for the development
 - configure testing tools
 - if using Type Script: add types for all packages/libs/frameworks
