@@ -28,3 +28,4 @@ Information about each of the above must be updated as soon as any of it changes
   - create development, stage and production branches
   - set merges to be accept only from pull requests and block merging directly into any branch
   - setup team access
+- push initial commit as first pull request and push it to code review. Resizst the temptation of creating initial configuration without code review! This is the foundation for the entire application. Anything that's missing or slipped your mind has a potential to create huge issue in future.
