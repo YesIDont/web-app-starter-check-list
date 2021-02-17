@@ -9,7 +9,7 @@ A list of steps to check when starting a new web app. Always keep in mind that:
 It will act as entry point for any one new to the code base. It should hold the information of the following:
 - stack: list containing frameworks, libraries and all tools being used to build the app
 - paradigm: describe/list the way of the code. Is it functional? Procedural? Does it uses modules? Or mabe it's OOP?
-- architecture: link/guide with description on what the app's structure will/should look like
+- architecture: link/guide with description on what is the app's structure will/should look like
 - entry point: point your reader to the file that puts all of the code together, regardless if it's the usuall index.js / index.html or not.
 - envs: links, explanations
 - CSS: stack, do's and don'ts
