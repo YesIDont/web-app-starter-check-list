@@ -25,6 +25,7 @@ Information about each of the above must be updated as soon as any of it changes
 ## 2. Prepare first commit with initial setup
 - install frameworks, libs and tooling required for the development
 - configure testing tools
+- for React/TS/ESLint/Prettier config there is usefull conf helper repo: [LINK](https://gist.github.com/EliEladElrom/54c5046cf21877824d1bc38d5dd33d81)
 - if using Type Script: add types for all packages/libs/frameworks
 - if it's in your job description: configure CI/CD
 - configure git (or other service) repo:
